@@ -1,2 +1,2 @@
-# Android_App_Calculator
+# Android App Calculator
 Calculator App in Android Studio
